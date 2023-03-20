@@ -1,2 +1,2 @@
 # Hello-World-GitHub
-This is a Hello World project of 1155160257
+Hello, I'm ZhangJuyuan at CUHK CSCI!
